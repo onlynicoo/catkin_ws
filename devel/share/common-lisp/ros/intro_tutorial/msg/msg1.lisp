@@ -1,1 +1,0 @@
-/home/nicola/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/msg/msg1.lisp

@@ -1,8 +1,0 @@
-prefix=/home/nicola/catkin_ws/devel/.private/exercise_1
-
-Name: exercise_1
-Description: Description of exercise_1
-Version: 0.0.0
-Cflags: -I/home/nicola/catkin_ws/devel/.private/exercise_1/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime

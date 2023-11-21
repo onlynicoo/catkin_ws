@@ -1,1 +1,0 @@
-/home/nicola/catkin_ws/devel/.private/exercise_1/share/exercise_1/cmake/exercise_1-msg-extras.cmake

@@ -1,1 +1,0 @@
-/home/nicola/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/srv1.l
