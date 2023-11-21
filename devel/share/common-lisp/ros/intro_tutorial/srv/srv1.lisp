@@ -1,0 +1,1 @@
+/home/nicola/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/srv/srv1.lisp

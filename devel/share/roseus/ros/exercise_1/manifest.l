@@ -1,0 +1,1 @@
+/home/nicola/catkin_ws/devel/.private/exercise_1/share/roseus/ros/exercise_1/manifest.l

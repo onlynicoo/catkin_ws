@@ -1,0 +1,1 @@
+/home/nicola/catkin_ws/devel/.private/exercise_1/lib/python3/dist-packages/exercise_1/msg/__init__.py

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nicola/catkin_ws/devel/.private/intro_tutorial/setup.sh

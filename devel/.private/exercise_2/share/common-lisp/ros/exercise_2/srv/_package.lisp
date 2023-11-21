@@ -1,0 +1,10 @@
+(cl:defpackage exercise_2-srv
+  (:use )
+  (:export
+   "ROBOTSTATESRV"
+   "<ROBOTSTATESRV-REQUEST>"
+   "ROBOTSTATESRV-REQUEST"
+   "<ROBOTSTATESRV-RESPONSE>"
+   "ROBOTSTATESRV-RESPONSE"
+  ))
+
