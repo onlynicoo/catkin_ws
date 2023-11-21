@@ -1,14 +1,14 @@
-[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
 [  0%] Built target std_msgs_generate_messages_eus
 [  0%] Built target _exercise_1_generate_messages_check_deps_robotMsg
-[  9%] Built target exercise_1_generate_messages_cpp
-[ 27%] Built target exercise_1_generate_messages_nodejs
-[ 45%] Built target exercise_1_generate_messages_lisp
-[ 45%] Built target exercise_1_generate_messages_py
+[ 18%] Built target exercise_1_generate_messages_nodejs
+[ 18%] Built target exercise_1_generate_messages_lisp
+[ 36%] Built target exercise_1_generate_messages_py
+[ 45%] Built target exercise_1_generate_messages_cpp
 [ 63%] Built target exercise_1_generate_messages_eus
-[ 72%] Built target exercise_1_generate_messages
+[ 63%] Built target exercise_1_generate_messages
 [ 81%] Built target robot
 [100%] Built target station

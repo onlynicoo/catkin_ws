@@ -1,19 +1,19 @@
 [  0%] Built target std_msgs_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target _intro_tutorial_generate_messages_check_deps_srv1
+[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target _intro_tutorial_generate_messages_check_deps_msg1
-[  8%] Built target intro_tutorial_generate_messages_cpp
-[ 16%] Built target intro_tutorial_generate_messages_lisp
-[ 28%] Built target intro_tutorial_generate_messages_eus
-[ 44%] Built target intro_tutorial_generate_messages_py
-[ 52%] Built target intro_tutorial_generate_messages_nodejs
-[ 60%] Built target example2_a
-[ 68%] Built target example1_a
-[ 80%] Built target example1_b
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_srv1
+[ 16%] Built target intro_tutorial_generate_messages_py
+[ 48%] Built target intro_tutorial_generate_messages_lisp
+[ 48%] Built target intro_tutorial_generate_messages_nodejs
+[ 52%] Built target intro_tutorial_generate_messages_cpp
+[ 52%] Built target intro_tutorial_generate_messages_eus
+[ 64%] Built target example2_a
+[ 72%] Built target example1_a
+[ 76%] Built target example1_b
+[ 84%] Built target example2_b
 [ 92%] Built target example3_a
-[ 92%] Built target example2_b
+[ 92%] Built target intro_tutorial_generate_messages
 [100%] Built target example3_b
-[100%] Built target intro_tutorial_generate_messages

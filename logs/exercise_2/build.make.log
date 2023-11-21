@@ -1,49 +1,19 @@
-[35m[1mScanning dependencies of target exercise_1_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target exercise_1_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target exercise_1_generate_messages_py[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target exercise_1_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target _exercise_2_generate_messages_check_deps_robotStateSrv[0m
-[  0%] Built target exercise_1_generate_messages_lisp
-[  0%] Built target exercise_1_generate_messages_nodejs
-[  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target exercise_1_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target exercise_1_generate_messages_nodejs
 [  0%] Built target exercise_1_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_py
-[35m[1mScanning dependencies of target exercise_1_generate_messages_eus[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target exercise_1_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target exercise_1_generate_messages_lisp
 [  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target exercise_1_generate_messages_py
+[  0%] Built target exercise_1_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
 [  0%] Built target _exercise_2_generate_messages_check_deps_robotStateSrv
-[35m[1mScanning dependencies of target exercise_2_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target exercise_2_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target exercise_2_generate_messages_py[0m
-[35m[1mScanning dependencies of target exercise_2_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target exercise_2_generate_messages_eus[0m
-[ 18%] [34m[1mGenerating Python code from SRV exercise_2/robotStateSrv[0m
-[ 18%] [34m[1mGenerating Javascript code from exercise_2/robotStateSrv.srv[0m
-[ 27%] [34m[1mGenerating Lisp code from exercise_2/robotStateSrv.srv[0m
-[ 36%] [34m[1mGenerating C++ code from exercise_2/robotStateSrv.srv[0m
-[ 45%] [34m[1mGenerating EusLisp manifest code for exercise_2[0m
-[ 54%] [34m[1mGenerating EusLisp code from exercise_2/robotStateSrv.srv[0m
-[ 54%] Built target exercise_2_generate_messages_nodejs
-[ 54%] Built target exercise_2_generate_messages_lisp
-[ 54%] Built target exercise_2_generate_messages_cpp
-[35m[1mScanning dependencies of target robot[0m
-[35m[1mScanning dependencies of target station[0m
-[ 63%] [34m[1mGenerating Python srv __init__.py for exercise_2[0m
-[ 72%] [32mBuilding CXX object CMakeFiles/robot.dir/src/robot.cpp.o[0m
-[ 81%] [32mBuilding CXX object CMakeFiles/station.dir/src/station.cpp.o[0m
-[ 81%] Built target exercise_2_generate_messages_eus
-[ 81%] Built target exercise_2_generate_messages_py
-[35m[1mScanning dependencies of target exercise_2_generate_messages[0m
-[ 81%] Built target exercise_2_generate_messages
-[ 90%] [32m[1mLinking CXX executable /home/nicola/catkin_ws/devel/.private/exercise_2/lib/exercise_2/station[0m
-[100%] [32m[1mLinking CXX executable /home/nicola/catkin_ws/devel/.private/exercise_2/lib/exercise_2/robot[0m
+[ 27%] Built target exercise_2_generate_messages_nodejs
+[ 27%] Built target exercise_2_generate_messages_eus
+[ 36%] Built target exercise_2_generate_messages_cpp
+[ 54%] Built target exercise_2_generate_messages_py
+[ 63%] Built target exercise_2_generate_messages_lisp
+[ 63%] Built target exercise_2_generate_messages
 [100%] Built target station
 [100%] Built target robot

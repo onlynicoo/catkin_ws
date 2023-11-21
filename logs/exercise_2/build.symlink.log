@@ -1,22 +1,22 @@
-Symlinking /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrvResponse.h
-Symlinking /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrv.h
-Symlinking /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrvRequest.h
-Symlinking /home/nicola/catkin_ws/devel/lib/pkgconfig/exercise_2.pc
-Symlinking /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/__init__.py
-Symlinking /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/srv/_robotStateSrv.py
-Symlinking /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/srv/__init__.py
-Symlinking /home/nicola/catkin_ws/devel/lib/exercise_2/station
-Symlinking /home/nicola/catkin_ws/devel/lib/exercise_2/robot
-Symlinking /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/exercise_2-srv.asd
-Symlinking /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/_package.lisp
-Symlinking /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/robotStateSrv.lisp
-Symlinking /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/_package_robotStateSrv.lisp
-Symlinking /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/_index.js
-Symlinking /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/srv/robotStateSrv.js
-Symlinking /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/srv/_index.js
-Symlinking /home/nicola/catkin_ws/devel/share/roseus/ros/exercise_2/manifest.l
-Symlinking /home/nicola/catkin_ws/devel/share/roseus/ros/exercise_2/srv/robotStateSrv.l
-Symlinking /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2-msg-paths.cmake
-Symlinking /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2Config-version.cmake
-Symlinking /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2Config.cmake
-Symlinking /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2-msg-extras.cmake
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/include/exercise_2/robotStateSrvResponse.h, /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrvResponse.h)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/include/exercise_2/robotStateSrv.h, /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrv.h)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/include/exercise_2/robotStateSrvRequest.h, /home/nicola/catkin_ws/devel/include/exercise_2/robotStateSrvRequest.h)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/pkgconfig/exercise_2.pc, /home/nicola/catkin_ws/devel/lib/pkgconfig/exercise_2.pc)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/python3/dist-packages/exercise_2/__init__.py, /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/__init__.py)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/python3/dist-packages/exercise_2/srv/_robotStateSrv.py, /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/srv/_robotStateSrv.py)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/python3/dist-packages/exercise_2/srv/__init__.py, /home/nicola/catkin_ws/devel/lib/python3/dist-packages/exercise_2/srv/__init__.py)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/exercise_2/station, /home/nicola/catkin_ws/devel/lib/exercise_2/station)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/lib/exercise_2/robot, /home/nicola/catkin_ws/devel/lib/exercise_2/robot)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/common-lisp/ros/exercise_2/srv/exercise_2-srv.asd, /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/exercise_2-srv.asd)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/common-lisp/ros/exercise_2/srv/_package.lisp, /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/_package.lisp)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/common-lisp/ros/exercise_2/srv/robotStateSrv.lisp, /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/robotStateSrv.lisp)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/common-lisp/ros/exercise_2/srv/_package_robotStateSrv.lisp, /home/nicola/catkin_ws/devel/share/common-lisp/ros/exercise_2/srv/_package_robotStateSrv.lisp)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/gennodejs/ros/exercise_2/_index.js, /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/_index.js)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/gennodejs/ros/exercise_2/srv/robotStateSrv.js, /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/srv/robotStateSrv.js)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/gennodejs/ros/exercise_2/srv/_index.js, /home/nicola/catkin_ws/devel/share/gennodejs/ros/exercise_2/srv/_index.js)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/roseus/ros/exercise_2/manifest.l, /home/nicola/catkin_ws/devel/share/roseus/ros/exercise_2/manifest.l)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/roseus/ros/exercise_2/srv/robotStateSrv.l, /home/nicola/catkin_ws/devel/share/roseus/ros/exercise_2/srv/robotStateSrv.l)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/exercise_2/cmake/exercise_2-msg-paths.cmake, /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2-msg-paths.cmake)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/exercise_2/cmake/exercise_2Config-version.cmake, /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2Config-version.cmake)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/exercise_2/cmake/exercise_2Config.cmake, /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2Config.cmake)
+Linked: (/home/nicola/catkin_ws/devel/.private/exercise_2/share/exercise_2/cmake/exercise_2-msg-extras.cmake, /home/nicola/catkin_ws/devel/share/exercise_2/cmake/exercise_2-msg-extras.cmake)
