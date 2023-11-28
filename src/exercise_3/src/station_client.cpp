@@ -5,8 +5,9 @@
 
 int main(int argc, char **argv)
 {
-    ros::init(argc, argv, "test_fibonacci");
-    actionlib::SimpleActionClient<exercise_3::my_actionAction> ac("RobotServer", true);
+    ros::init(argc, argv, "station");
+    actionlib::SimpleActionClient<exercise_3::my_actionAction> ac("Rob", true);
+
     ROS_INFO("Waiting for action server to start.");
     ac.waitForServer(); // will wait for infinite time
     ROS_INFO("Action server started, sending goal.");

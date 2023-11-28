@@ -24,10 +24,8 @@ public:
 
     void executeCB(const exercise_3::my_actionGoalConstPtr &goal)
     {
-        ROS_INFO("the increment is");
-        increment = float(goal->max_battery - current_battery)/60;
-        ROS_INFO("the increment is: %f", increment);
-
+        increment = (int)(float((goal->max_battery - current_battery)/60));
+        
         ros::Rate r(1);
         bool success = false;
 
@@ -35,10 +33,12 @@ public:
         ros::Rate rate(1.0);
 
         while (ros::ok()) {
-            ROS_INFO("the increment is:");
+
+            ROS_INFO("the increment is: %d\nThe curr battery is. %d\n", increment, current_battery);
+            
 
             // Update battery state
-            current_battery += 5;
+            current_battery += increment;
 
             // Give feedback to station
             feedback_.curr_battery = current_battery;
@@ -46,11 +46,13 @@ public:
 
             // Check if the max_battery is achived
             success = current_battery >= goal->max_battery;
-            if (success)
-            {
+            
+
+            if (success) {
                 result_.reached = success;
                 // compile the std_msgs of result header
                 as_.setSucceeded(result_);
+                break;
             }
 
             // Sleep to maintain the 1Hz rate
@@ -62,10 +64,7 @@ public:
 
 int main(int argc, char **argv)
 {
-    ros::init(argc, argv, "Rob");
-    std::cout<<"ci sono\\";
-    ROS_INFO("ciao dani\\");
-
+    ros::init(argc, argv, "Robot");
     RobotServer robot("Rob");
     ros::spin();
     return 0;

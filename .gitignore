@@ -58,3 +58,4 @@ include/*
 lib/*
 bin/*
 test/test_runner
+.catkin_tools
