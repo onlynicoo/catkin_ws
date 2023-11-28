@@ -32,6 +32,7 @@
 # Useless folders
 devel/*
 logs/*
+build/*
 
 **/cmake-build-debug
 **/CMakeCache.txt
