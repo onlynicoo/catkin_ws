@@ -1,1 +1,0 @@
-/home/nicola/catkin_ws/devel/.private/exercise_1/include/exercise_1/robotMsg.h

@@ -1,1 +1,0 @@
-/home/nicola/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/srv/_index.js
